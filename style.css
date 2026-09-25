@@ -13,7 +13,6 @@ You will find this is far easier than the opposite task of using CSS to cram you
 *********************************************************************/
 @import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css');
 
-html, figcaption {color: grey;}
 
 /*********************************************************************
   YOUR MOBILE/BASE STYLES GO HERE
@@ -34,7 +33,7 @@ html, body {
     /* Any adjustments for tablets and larger go here.
     Note these styles will be applied to anything 681px or larger -- so tablet AND desktop */
 }
-
+html, figcaption {color: grey;}
 /*********************************************************************
   YOUR DESKTOP-ONLY STYLES GO HERE
 *********************************************************************/
