@@ -13,6 +13,8 @@ You will find this is far easier than the opposite task of using CSS to cram you
 *********************************************************************/
 @import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css');
 
+html, figcaption {color: grey;}
+
 /*********************************************************************
   YOUR MOBILE/BASE STYLES GO HERE
 *********************************************************************/
@@ -25,7 +27,6 @@ html, body {
     font-size: 16px;
 }
 
-html, figcaption {color: grey;}
 /*********************************************************************
   YOUR TABLET/DESKTOP STYLES GO HERE
 *********************************************************************/
