@@ -23,7 +23,7 @@ You will find this is far easier than the opposite task of using CSS to cram you
 
 html, body {
     /* Sets default font-size to 16px, ensuring 1em = 16px; */
-    font-size: 16px; color: black;
+    font-size: 16px; color:
 }
 
 /*********************************************************************
@@ -33,7 +33,7 @@ html, body {
     /* Any adjustments for tablets and larger go here.
     Note these styles will be applied to anything 681px or larger -- so tablet AND desktop */
 }
-html, figcaption {color: grey;}
+
 /*********************************************************************
   YOUR DESKTOP-ONLY STYLES GO HERE
 *********************************************************************/
