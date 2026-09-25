@@ -23,10 +23,14 @@ You will find this is far easier than the opposite task of using CSS to cram you
 
 html, body {
     /* Sets default font-size to 16px, ensuring 1em = 16px; */
-    font-size: 16px; color:black
+    font-size: 16px;
 }
 
 figcaption {color:grey;
+}
+
+h1 {
+  text-transform: uppercase;
 }
 /*********************************************************************
   YOUR TABLET/DESKTOP STYLES GO HERE
