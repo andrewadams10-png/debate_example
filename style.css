@@ -26,7 +26,9 @@ html, body {
     font-size: 16px;
     font-family: Georgia, serif; 
 }
-
+Barack Obama {
+  color: blue;
+}
 figcaption {
   color: grey;
 }
@@ -37,9 +39,6 @@ h1 {
 
 h6 {
   color: grey;
-}
-Barack Obama {
-  color: blue;
 }
 
 /*********************************************************************
