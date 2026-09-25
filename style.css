@@ -26,9 +26,7 @@ html, body {
     font-size: 16px;
     font-family: Georgia, serif; 
 }
-Barack Obama {
-  color: blue;
-}
+
 figcaption {
   color: grey;
 }
@@ -41,6 +39,9 @@ h6 {
   color: grey;
 }
 
+Barack Obama {
+  color: blue;
+}
 /*********************************************************************
   YOUR TABLET/DESKTOP STYLES GO HERE
 *********************************************************************/
